@@ -11,7 +11,6 @@ import com.endava.internship.mocking.repository.PaymentRepository;
 import com.endava.internship.mocking.repository.UserRepository;
 
 public class PaymentService {
-
     private UserRepository userRepository;
     private PaymentRepository paymentRepository;
     private ValidationService validationService;
